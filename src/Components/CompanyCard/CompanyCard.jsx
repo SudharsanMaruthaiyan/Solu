@@ -7,7 +7,7 @@ const CompanyCard = () => {
       <div className="mb-10 z-10 group rounded-2xl bg-white " id="cardbg">
         <div className="rounded-2xl text-center px-6 py-10  z-0" id="bg">
           <div className=" flex justify-center">
-            <Boxes className=" group-hover:stroke-white stroke-[#ff3d01] h-10 w-[60px]"/>
+            <Boxes className=" group-hover:stroke-white stroke-[#1176F0] h-10 w-[60px]"/>
           </div>
           <h2 className=" font-[poppions-r] font-bold text-[22px] pt-9 pb-5 group-hover:text-white text-center">Web Development</h2>
           <p className=" font-[firesans-r] text-[16px] text-[#6e6d6d] font-medium p-0 group-hover:text-white text-center">Marketing repurpose success in professions whereas in services sapien maximus design.</p>
@@ -16,7 +16,7 @@ const CompanyCard = () => {
       <div className="mb-10 z-10 group rounded-2xl bg-white " id="cardbg">
         <div className="rounded-2xl text-center px-6 py-10  z-0" id="bg">
           <div className=" flex justify-center">
-            <Blocks className=" group-hover:stroke-white stroke-[#ff3d01] h-10 w-[60px]"/>
+            <Blocks className=" group-hover:stroke-white stroke-[#1176F0] h-10 w-[60px]"/>
           </div>
           <h2 className=" font-[poppions-r] font-bold text-[22px] pt-9 pb-5 group-hover:text-white text-center">IT Management</h2>
           <p className=" font-[firesans-r] text-[16px] text-[#6e6d6d] font-medium p-0 group-hover:text-white text-center">Marketing repurpose success in professions whereas in services sapien maximus design.</p>
@@ -25,7 +25,7 @@ const CompanyCard = () => {
       <div className="mb-10 z-10 group rounded-2xl bg-white " id="cardbg">
         <div className="rounded-2xl text-center px-6 py-10  z-0" id="bg">
           <div className=" flex justify-center">
-            <BadgeIndianRupee className=" group-hover:stroke-white stroke-[#ff3d01] h-10 w-[60px]"/>
+            <BadgeIndianRupee className=" group-hover:stroke-white stroke-[#1176F0] h-10 w-[60px]"/>
           </div>
           <h2 className=" font-[poppions-r] font-bold text-[22px] pt-9 pb-5 group-hover:text-white text-center">Digital Marketing</h2>
           <p className=" font-[firesans-r] text-[16px] text-[#6e6d6d] font-medium p-0 group-hover:text-white text-center">Marketing repurpose success in professions whereas in services sapien maximus design.</p>
@@ -34,7 +34,7 @@ const CompanyCard = () => {
       <div className="mb-10 z-10 group rounded-2xl bg-white " id="cardbg">
         <div className="rounded-2xl text-center px-6 py-10  z-0" id="bg">
           <div className=" flex justify-center">
-            <TabletSmartphone className=" group-hover:stroke-white stroke-[#ff3d01] h-10 w-[60px]"/>
+            <TabletSmartphone className=" group-hover:stroke-white stroke-[#1176F0] h-10 w-[60px]"/>
           </div>
           <h2 className=" font-[poppions-r] font-bold text-[22px] pt-9 pb-5 group-hover:text-white text-center">App Development</h2>
           <p className=" font-[firesans-r] text-[16px] text-[#6e6d6d] font-medium p-0 group-hover:text-white text-center">Marketing repurpose success in professions whereas in services sapien maximus design.</p>
